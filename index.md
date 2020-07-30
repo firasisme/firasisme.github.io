@@ -4,7 +4,7 @@
 
 ### Project
 
-1. [[MATLAB] Determining hypocenter earthquake](/sample_page)
+1. [[MATLAB] Determining hypocenter earthquake](https://github.com/firasisme/hypocenter_earthquake/sample_page)
 
 <img src="images/locate%20epicenter%20of%20earthquake.png?raw=true"/>
 
@@ -22,9 +22,5 @@
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
