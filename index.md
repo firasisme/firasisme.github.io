@@ -2,17 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Project
 
-[Project 1 Title](/sample_page)
+1. [[MATLAB] Determining hypocenter earthquake](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+![Image](https://github.com/firasisme/hypocenter_earthquake/blob/master/images%20hypocenter/locate%20epicenter%20of%20earthquake.png)
+
+---
+2. [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+3. [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
